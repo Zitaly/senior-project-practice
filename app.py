@@ -1,0 +1,1 @@
+print("Xavier Green\nComputer Science\nTechnology Interest: Artificial Intelligence\nSkill Goal: Working on a project within a group and AI-assisted coding.")
